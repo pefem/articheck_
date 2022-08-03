@@ -1,0 +1,10 @@
+{
+    "y": {
+        "aws_region": "eu-west-1",
+        "django_settings": "api_project.settings",
+        "profile_name": "default",
+        "project_name": "api-project",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-gikneiew5"
+    }
+}
